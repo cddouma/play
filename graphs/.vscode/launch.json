@@ -9,7 +9,7 @@
             "type": "python",
             "request": "launch",
             "program": "parser.py",
-            "cwd": "${workspaceFolder}/graphs",
+            "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",
             "justMyCode": true
         }
